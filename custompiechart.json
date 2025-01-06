@@ -15,13 +15,6 @@
             "url": "https://cdn.jsdelivr.net/gh/indirasai-bollepalli/custompiechart/custompiechart.js",
             "integrity": "",
             "ignoreIntegrity": true
-        },
-        {
-            "kind": "builder",
-            "tag": "com-indirasai-sap-custompiechart-builder",
-            "url": "https://cdn.jsdelivr.net/gh/indirasai-bollepalli/custompiechart/custompiechart_Builder.js",
-            "integrity": "",
-            "ignoreIntegrity": true
         }
     ],
     "properties": {
